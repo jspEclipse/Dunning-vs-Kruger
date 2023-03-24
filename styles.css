@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+
+
+
+.player1{
+    color: white;
+    right: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-90%, -50%);
+    text-align: center;
+}
+
+.player2{
+    color: white;
+    right: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-20%, -50%);
+    text-align: center;
+}
+
+#cnt1{
+    font-size:larger;
+}
+
+#cnt2{
+    font-size:larger;
+}
+
+.rule1{
+    color:#f0f8ff;
+}
+#rule2{
+    color: black;
+}
